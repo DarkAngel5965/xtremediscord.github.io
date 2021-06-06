@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(41, 39, 39);
+    margin: 0;
+    font-family: sans-serif;
+}
+
+#menu ul{
+    margin: 0;
+    background-color: black;
+    list-style: none;
+    text-align: center;
+}
+
+#menu ul li{
+ display: inline;
+}
+
+#menu ul li a{
+  padding: 10px 10px;
+  display: inline-block;
+  color: white;
+  text-decoration: none;
+}
+
+#menu ul li a:hover{
+ color:rgb(41, 39, 39);
+}
+
+#main{
+    text-align: center;
+    background-image: url(https://www.estudokids.com.br/wp-content/uploads/2020/02/o-que-e-paisagem-1200x675.jpg);
+    color: rgb(78, 7, 7);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
